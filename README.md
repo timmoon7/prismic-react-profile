@@ -1,4 +1,4 @@
-[https://timmoon.netlify.app]
+https://timmoon.netlify.app
 
 ## Getting started quickly with Prismic Themes
 
@@ -31,8 +31,7 @@ npm run build
 
 ## Deployment
 
-[https://timmoon.netlify.app]
-This project is ready for deployment using [Netlify](https://www.netlify.com), thanks to the addition of a `_redirects` file located in the public folder. If you're interested in deploying to other platforms review the suggested [solutions](https://facebook.github.io/create-react-app/docs/deployment).
+https://timmoon.netlify.app
 
 ## Get started with Prismic
 
