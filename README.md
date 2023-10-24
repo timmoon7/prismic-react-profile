@@ -1,14 +1,5 @@
 https://timmoon.netlify.app
 
-## Getting started quickly with Prismic Themes
-
-You can use our [Prismic-CLI](https://github.com/prismicio/prismic-cli) tool to quickly install this project in your machine, as well as setting up a Prismic repository with the required Custom Types. Just follow the instructions in your terminal to get started!
-
-```
-npm install -g prismic-cli
-prismic theme https://github.com/raulg/reactjs-website --conf /src/prismic-configuration.js
-```
-
 ### Install dependencies
 
 ```
