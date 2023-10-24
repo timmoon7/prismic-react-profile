@@ -1,8 +1,4 @@
-[![Dependency Status](https://david-dm.org/raulg/reactjs-website.svg)](https://david-dm.org/raulg/reactjs-website)
-
-# Prismic React Site Example
-
-This project is an implementation of the Prismic multipage site demo using ReactJS. Built up from the starter project, it's meant to provide you with an idea of how to build your own sites using the Prismic features. Read our [user guide](https://intercom.help/prismicio/en/articles/2731304-sample-multi-page-site-with-navigation-in-reactjs) if you need guidance on how to use this repository.
+[https://timmoon.netlify.app]
 
 ## Getting started quickly with Prismic Themes
 
@@ -35,7 +31,7 @@ npm run build
 
 ## Deployment
 
-[https://timmoon-profile.netlify.app]
+[https://timmoon.netlify.app]
 This project is ready for deployment using [Netlify](https://www.netlify.com), thanks to the addition of a `_redirects` file located in the public folder. If you're interested in deploying to other platforms review the suggested [solutions](https://facebook.github.io/create-react-app/docs/deployment).
 
 ## Get started with Prismic
